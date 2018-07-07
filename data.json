@@ -4,5 +4,44 @@
     "name":"devika",
     "label":"full-stack developer",
     "email":"devika7629@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+    "degree":"B-Tech(computer science)",
+    "institute":"pvp siddhartha",
+    "duration":["2017-20","86%"]
+  },
+  {
+    "degree":"diploma(computer science)",
+    "institute":"AANM & VVRSR",
+    "duration":["2014-17","84%"]
+  },
+  {
+    "degree":"s.s.c",
+    "institute":"sharada vidyaniketan",
+    "duration":["2014","88%"]
   }
+ ],
+ "skills":[
+   {
+     "title":"Languages",
+     "content":["C","Python","Java","C#","C++","PHP","R"]
+   },
+ {
+   "title":"DataBase",
+   "content":["SQL","MongoDB","MySql"]
+ },
+ {
+   "title":"web Technologies",
+   "content":["HTML","CSS","javascript","PHP"]
+ },
+ {
+   "title":"Frameworks",
+   "content":["Djange","CodeIgniter"]
+ }
+ 
+ ]
 }

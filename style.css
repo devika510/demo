@@ -16,7 +16,7 @@ justify-content:flex-start;
 .childTwo{
   background-color: black;
   color:pink;
-  width: 70%;
+  width: 100%;
   padding:2%;
   border:1px solid #ddd;
   margin: 2%;
